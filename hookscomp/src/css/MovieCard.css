@@ -1,0 +1,20 @@
+.carte{
+    border-radius: 10px;
+    border:solid salmon 2px;
+    margin:10px 5px;
+    padding: 5px 5px;
+    box-sizing: border-box;
+    
+}
+p{
+    color:whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Grande', sans-serif;
+    font-size: small;
+    letter-spacing: 2px;
+}
+
+p span{
+
+    font-size: medium;
+    color:rgb(19, 182, 81)
+}

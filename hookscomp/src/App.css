@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: #1f1e1e;
+  color:silver
+}
+
+.serching{
+  float:right;
+  margin: 20px 10px ;
+  position:relative;
+}
+.list{
+
+  display:flex;
+  flex-direction: row;
+  margin-left: 15px;
+  max-width: 100%;
+  justify-content:left;
+  text-align: justify;
+}
+.formadd{
+  margin: 150px 100px;
+  width:300px
+}
+.flexy{
+  display:flex;
+  flex-direction: row;
+  justify-content:space-between;
+
+}
